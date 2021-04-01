@@ -35,7 +35,8 @@ Sant Dnyaneshwar Shikshan Sanstha&#39;s
 
 **Annasaheb Dange College of Engineering and Technology, Ashta**
 
-![](RackMultipart20210401-4-1yv2m70_html_d2c0eeb95fc1b38b.png)
+![image](https://user-images.githubusercontent.com/48413868/113333747-72e91500-9340-11eb-8367-2d4f5ad8652f.png)
+
 
 **CERTIFICATE**
 
@@ -266,7 +267,7 @@ The design of the basic project work architecture, data flow diagrams, flow maps
   1.
 #### FlowChart
 
-![gam](![image](https://user-images.githubusercontent.com/48413868/113332937-7af48500-933f-11eb-8697-7500326098de.png)
+![](![image](https://user-images.githubusercontent.com/48413868/113332937-7af48500-933f-11eb-8697-7500326098de.png)
 
 ))
 
