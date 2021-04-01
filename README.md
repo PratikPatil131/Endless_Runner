@@ -1,7 +1,7 @@
 # Endless_runner
  
- ![gam](![character move](https://user-images.githubusercontent.com/48413868/113332644-0e798600-933f-11eb-8281-132b6b101149.png)
-)
+![character move](https://user-images.githubusercontent.com/48413868/113332644-0e798600-933f-11eb-8281-132b6b101149.png)
+
  
  ##### A
 
