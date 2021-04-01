@@ -267,9 +267,8 @@ The design of the basic project work architecture, data flow diagrams, flow maps
   1.
 #### FlowChart
 
-![](![image](https://user-images.githubusercontent.com/48413868/113332937-7af48500-933f-11eb-8697-7500326098de.png)
+(![image](https://user-images.githubusercontent.com/48413868/113332937-7af48500-933f-11eb-8697-7500326098de.png)
 
-))
 
 Figure1,describestheflowofproposedsystem. Gamebootingisaninitialpartofthisflowchart. After booting, current level is generated. This current level is an initial level where character spawns.Playerwillplaygamebypassingobstaclesandcollectingpoints. Whenplayerwillcollide withoneoftheobstaclesorifplayergoesoutofplayareathegamewillend.
 
@@ -491,9 +490,9 @@ Launch the unreal engine and you&#39;re ready to go.
     1.
 ###### Windows applicationoutput
 
-![gam](![image](https://user-images.githubusercontent.com/48413868/113333118-aecfaa80-933f-11eb-83c9-58d23c279c1b.png)
+(![image](https://user-images.githubusercontent.com/48413868/113333118-aecfaa80-933f-11eb-83c9-58d23c279c1b.png)
 
-)
+
 
 Figure 4.3.1: Windows Output
 
@@ -510,8 +509,8 @@ The collision detection is also used in situation like when player collides with
     1.
 ###### Obstacleused
 
-![gam](![image](https://user-images.githubusercontent.com/48413868/113333202-c5760180-933f-11eb-878f-181c80737595.png)
-)
+(![image](https://user-images.githubusercontent.com/48413868/113333202-c5760180-933f-11eb-878f-181c80737595.png)
+
 
 Figure 4.3.2: Obstacle
 
@@ -529,9 +528,9 @@ As a 3D object our rock will have all the same functionality as a rigid rock in 
 
     1.
 ###### Charactermovement
-![gam](![image](https://user-images.githubusercontent.com/48413868/113333354-f0f8ec00-933f-11eb-9eb9-d00941766190.png)
+(![image](https://user-images.githubusercontent.com/48413868/113333354-f0f8ec00-933f-11eb-9eb9-d00941766190.png)
 
-)
+
 
 Figure 4.3.3: Character movement
 
@@ -550,10 +549,10 @@ For jumping of character we have given an upward vector. We have given this vect
     1.
 ###### Ramp up
 
-![gam](![image](https://user-images.githubusercontent.com/48413868/113333400-03732580-9340-11eb-9329-b0dcde6e55ab.png)
+(![image](https://user-images.githubusercontent.com/48413868/113333400-03732580-9340-11eb-9329-b0dcde6e55ab.png)
 
 
-)
+
 
 Figure 4.3.4: Ramp up
 
@@ -571,9 +570,9 @@ There are two walls attached on both of its sides, those walls are also used to 
 
     1. **Ramp down**
 
-![gam](![image](https://user-images.githubusercontent.com/48413868/113333459-1554c880-9340-11eb-9d9a-572ff93a3f8d.png)
+(![image](https://user-images.githubusercontent.com/48413868/113333459-1554c880-9340-11eb-9d9a-572ff93a3f8d.png)
 
-)
+
 
 Figure 4.3.5: Ramp down
 
@@ -590,9 +589,9 @@ Side walls are not designed to destruct our character. Only face on walls are de
     1.
 ###### Pick upCoins
 
-###### ![gam](![image](https://user-images.githubusercontent.com/48413868/113333519-27cf0200-9340-11eb-909d-8558afe3dd53.png)
+###### (![image](https://user-images.githubusercontent.com/48413868/113333519-27cf0200-9340-11eb-909d-8558afe3dd53.png)
 
-)
+
 
 ######
 
@@ -610,9 +609,8 @@ After overlapping a coin will be destroyed by using destroy self or destroy acto
 
     1. **Right corner tile**
 
-![gam](![image](https://user-images.githubusercontent.com/48413868/113333607-42a17680-9340-11eb-82a9-410dfdcbf850.png)
+(![image](https://user-images.githubusercontent.com/48413868/113333607-42a17680-9340-11eb-82a9-410dfdcbf850.png)
 
-)
 
 Figure 4.3.7: Right Corner tile
 
@@ -627,10 +625,8 @@ When players enters into a turn zone he have to give input to turn if he wants t
     1. Skeleton mesh
 
 
-![gam](![image](https://user-images.githubusercontent.com/48413868/113333651-5220bf80-9340-11eb-95f3-56c0a6fd527c.png)
-)
+(![image](https://user-images.githubusercontent.com/48413868/113333651-5220bf80-9340-11eb-95f3-56c0a6fd527c.png)
 
-)
 
 Figure 4.3.8: Skeleton Mesh
 
